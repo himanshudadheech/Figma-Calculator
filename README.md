@@ -1,3 +1,3 @@
 
-<img src ="https://github.com/himanshudadheech/Figma-Calculator/blob/main/1.jpg" width="500" height="500"/>
+<img src ="Figma-Calculator/1.jpg" width="500" height="500"/>
 <img src ="https://github.com/himanshudadheech/Figma-Calculator/blob/main/2.jpg" width="500" height="500"/>
